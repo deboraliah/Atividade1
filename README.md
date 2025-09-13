@@ -1,4 +1,4 @@
-# Atividade1
+# Atividade 1
 
 ## Descrição  
 Projeto desenvolvido na disciplina de *Desenvolvimento Web, com foco na prática de estruturação de páginas utilizando **HTML5*.  
